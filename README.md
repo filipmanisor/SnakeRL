@@ -6,3 +6,5 @@ Uses Keras for deep learning and https://playsnake.org/ for Snake.
 
 REWARD_POSITION = 3
 r = float(parseExpName(f)[REWARD_POSITION])
+
+evaluate model fara still alive
